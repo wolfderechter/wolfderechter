@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Hi%20There%20👋&fontSize=90&color=auto)
 
-<!--
-**wolfderechter/wolfderechter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Wolf, a full-stack engineer**
 
-Here are some ideas to get you started:
+#### Currently working on / interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 finishing my applied computer science degree
+- 🔭 open-source projects
+- ❤️ fun (little) personal projects
+- 👨‍💻 learning different flavors of computer science
+
+#### Technologies
+
+- JavaScript / HTML / CSS
+- C# / .NET / Blazor
+- Golang / [Hugo](https://gohugo.io/) / [Wails](https://wails.io)
+- Java
+- MySQL / SQLite / mongoDB
