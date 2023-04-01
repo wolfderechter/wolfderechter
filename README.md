@@ -5,15 +5,15 @@
 
 #### Currently working on / interested in
 
-- 🎓 finishing my applied computer science degree
-- 🔭 open-source projects
-- ❤️ fun (little) personal projects
-- 👨‍💻 learning different flavors of computer science
+- 🎓 Graduated in 2023 from applied computer science
+- 🔭 Open-source projects
+- ❤️ Fun (little) personal projects
+- 👨‍💻 Learning different flavors of computer science
 
 #### Technologies
 
-- JavaScript / HTML / CSS
+- JavaScript / TypeScript / HTML / CSS
 - C# / .NET / Blazor
 - Golang / [Hugo](https://gohugo.io/) / [Wails](https://wails.io)
 - Java
-- MySQL / SQLite / mongoDB
+- MySQL / SQLite / MongoDB
